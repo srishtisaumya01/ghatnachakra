@@ -1,0 +1,2 @@
+# The source book PDFs are copyrighted and large: keep them out of git.
+*.pdf
