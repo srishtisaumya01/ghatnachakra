@@ -1,0 +1,2999 @@
+{
+ "books": {
+  "polity": "Preview_Indian_Polity_and_Governance_Part_4_2026_26118_C_E_Book.pdf",
+  "science": "Preview_General_Science_Part_7_2026_26121_C_E_Book_combined_1.pdf",
+  "history": "Preview_Indian_History_Part_2_2026_26116_C_E_Book_Merged.pdf",
+  "geography": "Preview_General_Geography_Part_3_2026_26117_C_E_Book_combined.pdf",
+  "bpsc": "Preview_BPSC_General_Studies_2026_2616_N_E_Book_2026.pdf"
+ },
+ "subjects": [
+  {
+   "id": "polity",
+   "name": "Indian Polity & Governance",
+   "chapters": [
+    {
+     "id": "polity-000",
+     "title": "The Constitutional Development of India",
+     "group": "",
+     "count": 42
+    },
+    {
+     "id": "polity-001",
+     "title": "Constituent Assembly and Making of the Constitution",
+     "group": "",
+     "count": 72
+    },
+    {
+     "id": "polity-002",
+     "title": "Important Committees of Constituent Assembly",
+     "group": "",
+     "count": 12
+    },
+    {
+     "id": "polity-003",
+     "title": "Sources of the Constitution",
+     "group": "",
+     "count": 29
+    },
+    {
+     "id": "polity-004",
+     "title": "Parts of Indian Constitution",
+     "group": "",
+     "count": 20
+    },
+    {
+     "id": "polity-005",
+     "title": "Articles of the Constitution",
+     "group": "",
+     "count": 26
+    },
+    {
+     "id": "polity-006",
+     "title": "Schedules",
+     "group": "",
+     "count": 63
+    },
+    {
+     "id": "polity-007",
+     "title": "The Preamble",
+     "group": "",
+     "count": 50
+    },
+    {
+     "id": "polity-008",
+     "title": "The Governance System",
+     "group": "",
+     "count": 80
+    },
+    {
+     "id": "polity-009",
+     "title": "National Symbols",
+     "group": "",
+     "count": 16
+    },
+    {
+     "id": "polity-010",
+     "title": "States and Union Territories",
+     "group": "",
+     "count": 63
+    },
+    {
+     "id": "polity-011",
+     "title": "The Citizenship",
+     "group": "",
+     "count": 16
+    },
+    {
+     "id": "polity-012",
+     "title": "Fundamental Rights",
+     "group": "",
+     "count": 167
+    },
+    {
+     "id": "polity-013",
+     "title": "Directive Principles of State Policy",
+     "group": "",
+     "count": 68
+    },
+    {
+     "id": "polity-014",
+     "title": "Fundamental Duties",
+     "group": "",
+     "count": 41
+    },
+    {
+     "id": "polity-015",
+     "title": "The President",
+     "group": "",
+     "count": 130
+    },
+    {
+     "id": "polity-016",
+     "title": "The Vice-President",
+     "group": "",
+     "count": 23
+    },
+    {
+     "id": "polity-017",
+     "title": "The Council of Ministers",
+     "group": "",
+     "count": 88
+    },
+    {
+     "id": "polity-018",
+     "title": "The Attorney General and the C.A.G.",
+     "group": "",
+     "count": 61
+    },
+    {
+     "id": "polity-019",
+     "title": "Order of Precedence",
+     "group": "",
+     "count": 7
+    },
+    {
+     "id": "polity-020",
+     "title": "The Parliament (1)",
+     "group": "",
+     "count": 94
+    },
+    {
+     "id": "polity-021",
+     "title": "The Parliament (2)",
+     "group": "",
+     "count": 59
+    },
+    {
+     "id": "polity-022",
+     "title": "The Parliament (3)",
+     "group": "",
+     "count": 134
+    },
+    {
+     "id": "polity-023",
+     "title": "Parliamentary Committees",
+     "group": "",
+     "count": 36
+    },
+    {
+     "id": "polity-024",
+     "title": "The Parliamentary Act",
+     "group": "",
+     "count": 87
+    },
+    {
+     "id": "polity-025",
+     "title": "The Supreme Court",
+     "group": "",
+     "count": 122
+    },
+    {
+     "id": "polity-026",
+     "title": "The Governor",
+     "group": "",
+     "count": 55
+    },
+    {
+     "id": "polity-027",
+     "title": "The State Legislature",
+     "group": "",
+     "count": 82
+    },
+    {
+     "id": "polity-028",
+     "title": "The High Court",
+     "group": "",
+     "count": 39
+    },
+    {
+     "id": "polity-029",
+     "title": "The Centre-State Relations",
+     "group": "",
+     "count": 57
+    },
+    {
+     "id": "polity-030",
+     "title": "Emergency Provisions",
+     "group": "",
+     "count": 36
+    },
+    {
+     "id": "polity-031",
+     "title": "The Finance Commission",
+     "group": "",
+     "count": 29
+    },
+    {
+     "id": "polity-032",
+     "title": "The Planning Commission/NITI Aayog",
+     "group": "",
+     "count": 35
+    },
+    {
+     "id": "polity-033",
+     "title": "Lokpal and Important Commissions",
+     "group": "",
+     "count": 113
+    },
+    {
+     "id": "polity-034",
+     "title": "Temporary, Transitional and Special Provisions",
+     "group": "",
+     "count": 9
+    },
+    {
+     "id": "polity-035",
+     "title": "Election Commission",
+     "group": "",
+     "count": 62
+    },
+    {
+     "id": "polity-036",
+     "title": "Political Parties",
+     "group": "",
+     "count": 54
+    },
+    {
+     "id": "polity-037",
+     "title": "Constitutional Amendments",
+     "group": "",
+     "count": 89
+    },
+    {
+     "id": "polity-038",
+     "title": "Official Language",
+     "group": "",
+     "count": 21
+    },
+    {
+     "id": "polity-039",
+     "title": "Panchayati Raj and Community Development",
+     "group": "",
+     "count": 216
+    },
+    {
+     "id": "polity-040",
+     "title": "Special Provision for Certain Classes",
+     "group": "",
+     "count": 25
+    },
+    {
+     "id": "polity-041",
+     "title": "Miscellaneous",
+     "group": "",
+     "count": 137
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "name": "Indian History",
+   "chapters": [
+    {
+     "id": "history-000",
+     "title": "Stone Age",
+     "group": "Ancient History of India",
+     "count": 48
+    },
+    {
+     "id": "history-001",
+     "title": "Indus Valley Civilization",
+     "group": "Ancient History of India",
+     "count": 92
+    },
+    {
+     "id": "history-002",
+     "title": "Vedic Age",
+     "group": "Ancient History of India",
+     "count": 111
+    },
+    {
+     "id": "history-003",
+     "title": "Buddhism",
+     "group": "Ancient History of India",
+     "count": 149
+    },
+    {
+     "id": "history-004",
+     "title": "Jain Religion",
+     "group": "Ancient History of India",
+     "count": 62
+    },
+    {
+     "id": "history-005",
+     "title": "Shaiva, Bhagavata Religion",
+     "group": "Ancient History of India",
+     "count": 31
+    },
+    {
+     "id": "history-006",
+     "title": "Sixth century B.C.E - Political Condition",
+     "group": "Ancient History of India",
+     "count": 58
+    },
+    {
+     "id": "history-007",
+     "title": "Greek Invasion",
+     "group": "Ancient History of India",
+     "count": 7
+    },
+    {
+     "id": "history-008",
+     "title": "Maurya Empire",
+     "group": "Ancient History of India",
+     "count": 148
+    },
+    {
+     "id": "history-009",
+     "title": "Post-Mauryan Period",
+     "group": "Ancient History of India",
+     "count": 77
+    },
+    {
+     "id": "history-010",
+     "title": "Gupta and Post-Gupta Period",
+     "group": "Ancient History of India",
+     "count": 179
+    },
+    {
+     "id": "history-011",
+     "title": "Architecture in Ancient India",
+     "group": "Ancient History of India",
+     "count": 97
+    },
+    {
+     "id": "history-012",
+     "title": "South India (Chola, Chalukya, Pallava and Sangam Period)",
+     "group": "Ancient History of India",
+     "count": 93
+    },
+    {
+     "id": "history-013",
+     "title": "Ancient Literature and Litterateur",
+     "group": "Ancient History of India",
+     "count": 88
+    },
+    {
+     "id": "history-014",
+     "title": "Early-Medieval Period",
+     "group": "Ancient History of India",
+     "count": 71
+    },
+    {
+     "id": "history-015",
+     "title": "Muslim Invasion of India",
+     "group": "Medieval History of India",
+     "count": 39
+    },
+    {
+     "id": "history-016",
+     "title": "Delhi Sultanate: Slave Dynasty",
+     "group": "Medieval History of India",
+     "count": 39
+    },
+    {
+     "id": "history-017",
+     "title": "Khalji Dynasty",
+     "group": "Medieval History of India",
+     "count": 32
+    },
+    {
+     "id": "history-018",
+     "title": "Tughluq Dynasty",
+     "group": "Medieval History of India",
+     "count": 44
+    },
+    {
+     "id": "history-019",
+     "title": "Lodi Dynasty",
+     "group": "Medieval History of India",
+     "count": 12
+    },
+    {
+     "id": "history-020",
+     "title": "Vijayanagara Empire",
+     "group": "Medieval History of India",
+     "count": 48
+    },
+    {
+     "id": "history-021",
+     "title": "Delhi Sultanate: Administration",
+     "group": "Medieval History of India",
+     "count": 31
+    },
+    {
+     "id": "history-022",
+     "title": "Delhi Sultanate: Art and Architecture",
+     "group": "Medieval History of India",
+     "count": 14
+    },
+    {
+     "id": "history-023",
+     "title": "Delhi Sultanate: Literature",
+     "group": "Medieval History of India",
+     "count": 40
+    },
+    {
+     "id": "history-024",
+     "title": "Delhi Sultanate : Miscellaneous",
+     "group": "Medieval History of India",
+     "count": 28
+    },
+    {
+     "id": "history-025",
+     "title": "Provincial Dynasty of North India and Deccan Province",
+     "group": "Medieval History of India",
+     "count": 39
+    },
+    {
+     "id": "history-026",
+     "title": "Bhakti and Sufi Movement",
+     "group": "Medieval History of India",
+     "count": 98
+    },
+    {
+     "id": "history-027",
+     "title": "Mughal Dynasty : Babur",
+     "group": "Medieval History of India",
+     "count": 28
+    },
+    {
+     "id": "history-028",
+     "title": "Humayun and Sher Shah",
+     "group": "Medieval History of India",
+     "count": 33
+    },
+    {
+     "id": "history-029",
+     "title": "Akbar",
+     "group": "Medieval History of India",
+     "count": 82
+    },
+    {
+     "id": "history-030",
+     "title": "Jahangir",
+     "group": "Medieval History of India",
+     "count": 32
+    },
+    {
+     "id": "history-031",
+     "title": "Shah Jahan",
+     "group": "Medieval History of India",
+     "count": 27
+    },
+    {
+     "id": "history-032",
+     "title": "Aurangzeb",
+     "group": "Medieval History of India",
+     "count": 26
+    },
+    {
+     "id": "history-033",
+     "title": "Mughal Administration",
+     "group": "Medieval History of India",
+     "count": 31
+    },
+    {
+     "id": "history-034",
+     "title": "Music and Paintings of Mughal Period",
+     "group": "Medieval History of India",
+     "count": 24
+    },
+    {
+     "id": "history-035",
+     "title": "Mughal Literature",
+     "group": "Medieval History of India",
+     "count": 33
+    },
+    {
+     "id": "history-036",
+     "title": "Mughal Period : Miscellaneous",
+     "group": "Medieval History of India",
+     "count": 40
+    },
+    {
+     "id": "history-037",
+     "title": "Sikh Sect",
+     "group": "Medieval History of India",
+     "count": 21
+    },
+    {
+     "id": "history-038",
+     "title": "Maratha State and Confederacy",
+     "group": "Medieval History of India",
+     "count": 46
+    },
+    {
+     "id": "history-039",
+     "title": "Disintegration of the Mughal Empire",
+     "group": "Medieval History of India",
+     "count": 24
+    },
+    {
+     "id": "history-040",
+     "title": "Advent of European Companies",
+     "group": "Modern History of India",
+     "count": 59
+    },
+    {
+     "id": "history-041",
+     "title": "East India Company and Nawab of Bengal",
+     "group": "Modern History of India",
+     "count": 29
+    },
+    {
+     "id": "history-042",
+     "title": "Regional States: Punjab and Mysore",
+     "group": "Modern History of India",
+     "count": 27
+    },
+    {
+     "id": "history-043",
+     "title": "Governor/Governor General/ Viceroy",
+     "group": "Modern History of India",
+     "count": 128
+    },
+    {
+     "id": "history-044",
+     "title": "Economic Impact of British Rule on India",
+     "group": "Modern History of India",
+     "count": 52
+    },
+    {
+     "id": "history-045",
+     "title": "Revolt of 1857",
+     "group": "Modern History of India",
+     "count": 96
+    },
+    {
+     "id": "history-046",
+     "title": "Other Civil Uprisings",
+     "group": "Modern History of India",
+     "count": 84
+    },
+    {
+     "id": "history-047",
+     "title": "Development of Education in Modern India",
+     "group": "Modern History of India",
+     "count": 46
+    },
+    {
+     "id": "history-048",
+     "title": "Development of Press in Modern India",
+     "group": "Modern History of India",
+     "count": 70
+    },
+    {
+     "id": "history-049",
+     "title": "Social Religious Movement",
+     "group": "Modern History of India",
+     "count": 151
+    },
+    {
+     "id": "history-050",
+     "title": "Political Organisation Established before Congress",
+     "group": "Modern History of India",
+     "count": 28
+    },
+    {
+     "id": "history-051",
+     "title": "Indian National Congress",
+     "group": "Modern History of India",
+     "count": 87
+    },
+    {
+     "id": "history-052",
+     "title": "Moderates and Extremists in Congress",
+     "group": "Modern History of India",
+     "count": 40
+    },
+    {
+     "id": "history-053",
+     "title": "Revolutionary Movement in India",
+     "group": "Modern History of India",
+     "count": 91
+    },
+    {
+     "id": "history-054",
+     "title": "Revolutionary Activities Outside India",
+     "group": "Modern History of India",
+     "count": 42
+    },
+    {
+     "id": "history-055",
+     "title": "Partition of Bengal and Swadeshi Movement",
+     "group": "Modern History of India",
+     "count": 37
+    },
+    {
+     "id": "history-056",
+     "title": "Congress: Banaras, Culcutta, and Surat Session",
+     "group": "Modern History of India",
+     "count": 25
+    },
+    {
+     "id": "history-057",
+     "title": "Formation of Muslim League (1906)",
+     "group": "Modern History of India",
+     "count": 12
+    },
+    {
+     "id": "history-058",
+     "title": "Morley-Minto Reforms",
+     "group": "Modern History of India",
+     "count": 5
+    },
+    {
+     "id": "history-059",
+     "title": "Delhi Durbar and Change of Capital",
+     "group": "Modern History of India",
+     "count": 12
+    },
+    {
+     "id": "history-060",
+     "title": "Lucknow Session of Congress (The Lucknow Pact)",
+     "group": "Modern History of India",
+     "count": 10
+    },
+    {
+     "id": "history-061",
+     "title": "Home Rule League Movement",
+     "group": "Modern History of India",
+     "count": 12
+    },
+    {
+     "id": "history-062",
+     "title": "Gandhi and His Early Movement",
+     "group": "Modern History of India",
+     "count": 106
+    },
+    {
+     "id": "history-063",
+     "title": "Peasant Movement and Kisan Sabha",
+     "group": "Modern History of India",
+     "count": 38
+    },
+    {
+     "id": "history-064",
+     "title": "Trade Union and Communist Party",
+     "group": "Modern History of India",
+     "count": 18
+    },
+    {
+     "id": "history-065",
+     "title": "Rowlatt Act and Jallianwala Bagh Massacre (1919)",
+     "group": "Modern History of India",
+     "count": 40
+    },
+    {
+     "id": "history-066",
+     "title": "Khilafat Movement",
+     "group": "Modern History of India",
+     "count": 17
+    },
+    {
+     "id": "history-067",
+     "title": "Non-Cooperation Movement",
+     "group": "Modern History of India",
+     "count": 50
+    },
+    {
+     "id": "history-068",
+     "title": "Formation of Swaraj Party (1923)",
+     "group": "Modern History of India",
+     "count": 45
+    },
+    {
+     "id": "history-070",
+     "title": "Lahore Session of Congress, Proposal of Complete Independence (1929)",
+     "group": "Modern History of India",
+     "count": 23
+    },
+    {
+     "id": "history-071",
+     "title": "Civil Disobedience Movement",
+     "group": "Modern History of India",
+     "count": 45
+    },
+    {
+     "id": "history-072",
+     "title": "Gandhi-Irwin Pact",
+     "group": "Modern History of India",
+     "count": 11
+    },
+    {
+     "id": "history-073",
+     "title": "Karachi Session of Congress (1931)",
+     "group": "Modern History of India",
+     "count": 8
+    },
+    {
+     "id": "history-074",
+     "title": "Round Table Conference",
+     "group": "Modern History of India",
+     "count": 24
+    },
+    {
+     "id": "history-075",
+     "title": "Communal Award And Poona Pact (1932)",
+     "group": "Modern History of India",
+     "count": 24
+    },
+    {
+     "id": "history-076",
+     "title": "Congress Socialist Party (1934)",
+     "group": "Modern History of India",
+     "count": 17
+    },
+    {
+     "id": "history-077",
+     "title": "Provincial Election and Formation of Cabinet (1937)",
+     "group": "Modern History of India",
+     "count": 15
+    },
+    {
+     "id": "history-078",
+     "title": "Tripuri Crisis of Congress (1939)",
+     "group": "Modern History of India",
+     "count": 13
+    },
+    {
+     "id": "history-079",
+     "title": "Indian Princely States",
+     "group": "Modern History of India",
+     "count": 10
+    },
+    {
+     "id": "history-080",
+     "title": "Second World War",
+     "group": "Modern History of India",
+     "count": 6
+    },
+    {
+     "id": "history-081",
+     "title": "Demand for Pakistan",
+     "group": "Modern History of India",
+     "count": 19
+    },
+    {
+     "id": "history-082",
+     "title": "Individual Satyagraha (1940)",
+     "group": "Modern History of India",
+     "count": 8
+    },
+    {
+     "id": "history-083",
+     "title": "Cripps Mission (1942)",
+     "group": "Modern History of India",
+     "count": 10
+    },
+    {
+     "id": "history-084",
+     "title": "Quit India Movement",
+     "group": "Modern History of India",
+     "count": 72
+    },
+    {
+     "id": "history-085",
+     "title": "Subhash Chandra Bose and Azad Hind Fauj",
+     "group": "Modern History of India",
+     "count": 45
+    },
+    {
+     "id": "history-086",
+     "title": "Cabinet Mission Plan (1946)",
+     "group": "Modern History of India",
+     "count": 21
+    },
+    {
+     "id": "history-087",
+     "title": "Constituent Assembly (1946)",
+     "group": "Modern History of India",
+     "count": 11
+    },
+    {
+     "id": "history-088",
+     "title": "Formation of Interim Government (1946)",
+     "group": "Modern History of India",
+     "count": 17
+    },
+    {
+     "id": "history-089",
+     "title": "Partition of India and Independence",
+     "group": "Modern History of India",
+     "count": 50
+    },
+    {
+     "id": "history-090",
+     "title": "Constitutional Development of India",
+     "group": "Modern History of India",
+     "count": 75
+    },
+    {
+     "id": "history-091",
+     "title": "Modern History : Miscellaneous",
+     "group": "Modern History of India",
+     "count": 274
+    },
+    {
+     "id": "history-092",
+     "title": "Magazines, Books And Their Authors",
+     "group": "Modern History of India",
+     "count": 212
+    },
+    {
+     "id": "history-093",
+     "title": "Art and Culture",
+     "group": "Modern History of India",
+     "count": 160
+    },
+    {
+     "id": "history-094",
+     "title": "Award 22002266 PPPPaaaarrrrttttssss",
+     "group": "Modern History of India",
+     "count": 38
+    }
+   ]
+  },
+  {
+   "id": "geography",
+   "name": "General Geography",
+   "chapters": [
+    {
+     "id": "geography-000",
+     "title": "Area",
+     "group": "Indian Geography",
+     "count": 9
+    },
+    {
+     "id": "geography-002",
+     "title": "India and the Tropic of Cancer",
+     "group": "Indian Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-003",
+     "title": "Standard Time",
+     "group": "Indian Geography",
+     "count": 13
+    },
+    {
+     "id": "geography-004",
+     "title": "Extreme Points",
+     "group": "Indian Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-005",
+     "title": "Bordering Countries",
+     "group": "Indian Geography",
+     "count": 29
+    },
+    {
+     "id": "geography-006",
+     "title": "Natural Region of India",
+     "group": "Indian Geography",
+     "count": 15
+    },
+    {
+     "id": "geography-007",
+     "title": "Northern Mountaneous Region",
+     "group": "Indian Geography",
+     "count": 48
+    },
+    {
+     "id": "geography-008",
+     "title": "Mountain Ranges and Hills of South and Central India",
+     "group": "Indian Geography",
+     "count": 50
+    },
+    {
+     "id": "geography-009",
+     "title": "Mountain Peaks",
+     "group": "Indian Geography",
+     "count": 24
+    },
+    {
+     "id": "geography-010",
+     "title": "Valleys",
+     "group": "Indian Geography",
+     "count": 8
+    },
+    {
+     "id": "geography-011",
+     "title": "Passes",
+     "group": "Indian Geography",
+     "count": 26
+    },
+    {
+     "id": "geography-012",
+     "title": "Snow Lines and Glaciers",
+     "group": "Indian Geography",
+     "count": 11
+    },
+    {
+     "id": "geography-013",
+     "title": "Plateaus",
+     "group": "Indian Geography",
+     "count": 16
+    },
+    {
+     "id": "geography-014",
+     "title": "Indian Coastline",
+     "group": "Indian Geography",
+     "count": 10
+    },
+    {
+     "id": "geography-015",
+     "title": "Eastern and Western Coast",
+     "group": "Indian Geography",
+     "count": 11
+    },
+    {
+     "id": "geography-016",
+     "title": "Island groups of the Bay of Bengal",
+     "group": "Indian Geography",
+     "count": 14
+    },
+    {
+     "id": "geography-017",
+     "title": "Island group of Arabian Sea",
+     "group": "Indian Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-018",
+     "title": "States",
+     "group": "Indian Geography",
+     "count": 53
+    },
+    {
+     "id": "geography-019",
+     "title": "Union Territories",
+     "group": "Indian Geography",
+     "count": 10
+    },
+    {
+     "id": "geography-020",
+     "title": "Species/Tribes",
+     "group": "Indian Geography",
+     "count": 83
+    },
+    {
+     "id": "geography-021",
+     "title": "Languages",
+     "group": "Indian Geography",
+     "count": 8
+    },
+    {
+     "id": "geography-022",
+     "title": "Ganga Drainage System",
+     "group": "Indian Geography",
+     "count": 49
+    },
+    {
+     "id": "geography-023",
+     "title": "Brahmaputra Drainage System",
+     "group": "Indian Geography",
+     "count": 14
+    },
+    {
+     "id": "geography-024",
+     "title": "The South Indian Rivers",
+     "group": "Indian Geography",
+     "count": 66
+    },
+    {
+     "id": "geography-025",
+     "title": "Other Rivers",
+     "group": "Indian Geography",
+     "count": 63
+    },
+    {
+     "id": "geography-026",
+     "title": "City Located on the Bank of Rivers",
+     "group": "Indian Geography",
+     "count": 14
+    },
+    {
+     "id": "geography-027",
+     "title": "Waterfalls and Lakes",
+     "group": "Indian Geography",
+     "count": 46
+    },
+    {
+     "id": "geography-028",
+     "title": "Monsoon",
+     "group": "Indian Geography",
+     "count": 35
+    },
+    {
+     "id": "geography-029",
+     "title": "Rainfall",
+     "group": "Indian Geography",
+     "count": 31
+    },
+    {
+     "id": "geography-030",
+     "title": "Winter Rainfall",
+     "group": "Indian Geography",
+     "count": 12
+    },
+    {
+     "id": "geography-031",
+     "title": "Natural Disasters",
+     "group": "Indian Geography",
+     "count": 23
+    },
+    {
+     "id": "geography-032",
+     "title": "Soils",
+     "group": "Indian Geography",
+     "count": 72
+    },
+    {
+     "id": "geography-033",
+     "title": "Natural Vegetation",
+     "group": "Indian Geography",
+     "count": 40
+    },
+    {
+     "id": "geography-034",
+     "title": "Irrigation and Canals",
+     "group": "Indian Geography",
+     "count": 38
+    },
+    {
+     "id": "geography-035",
+     "title": "Multi-Purpose River Valley Project",
+     "group": "Indian Geography",
+     "count": 110
+    },
+    {
+     "id": "geography-036",
+     "title": "Agriculture",
+     "group": "Indian Geography",
+     "count": 44
+    },
+    {
+     "id": "geography-037",
+     "title": "Green Revolution",
+     "group": "Indian Geography",
+     "count": 30
+    },
+    {
+     "id": "geography-038",
+     "title": "Food Crops",
+     "group": "Indian Geography",
+     "count": 81
+    },
+    {
+     "id": "geography-039",
+     "title": "Cash Crops",
+     "group": "Indian Geography",
+     "count": 36
+    },
+    {
+     "id": "geography-040",
+     "title": "Oilseed",
+     "group": "Indian Geography",
+     "count": 25
+    },
+    {
+     "id": "geography-041",
+     "title": "Pulses",
+     "group": "Indian Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-042",
+     "title": "'Silk'",
+     "group": "Indian Geography",
+     "count": 9
+    },
+    {
+     "id": "geography-043",
+     "title": "Plantation Crops",
+     "group": "Indian Geography",
+     "count": 48
+    },
+    {
+     "id": "geography-044",
+     "title": "Jhuming Agriculture",
+     "group": "Indian Geography",
+     "count": 8
+    },
+    {
+     "id": "geography-045",
+     "title": "Agricuture : Miscellaneous",
+     "group": "Indian Geography",
+     "count": 97
+    },
+    {
+     "id": "geography-046",
+     "title": "Animal Husbandary",
+     "group": "Indian Geography",
+     "count": 15
+    },
+    {
+     "id": "geography-047",
+     "title": "Mineral Resources",
+     "group": "Indian Geography",
+     "count": 158
+    },
+    {
+     "id": "geography-048",
+     "title": "Miscellaneous : Minerals",
+     "group": "Indian Geography",
+     "count": 55
+    },
+    {
+     "id": "geography-049",
+     "title": "Electrical Energy",
+     "group": "Indian Geography",
+     "count": 68
+    },
+    {
+     "id": "geography-050",
+     "title": "Industry",
+     "group": "Indian Geography",
+     "count": 93
+    },
+    {
+     "id": "geography-051",
+     "title": "Research Centres in India",
+     "group": "Indian Geography",
+     "count": 58
+    },
+    {
+     "id": "geography-052",
+     "title": "Transport",
+     "group": "Indian Geography",
+     "count": 138
+    },
+    {
+     "id": "geography-053",
+     "title": "Tourism",
+     "group": "Indian Geography",
+     "count": 12
+    },
+    {
+     "id": "geography-054",
+     "title": "Miscellaneous",
+     "group": "Indian Geography",
+     "count": 27
+    },
+    {
+     "id": "geography-055",
+     "title": "General Concept",
+     "group": "World Geography",
+     "count": 28
+    },
+    {
+     "id": "geography-056",
+     "title": "The Solar System",
+     "group": "World Geography",
+     "count": 21
+    },
+    {
+     "id": "geography-057",
+     "title": "The Sun",
+     "group": "World Geography",
+     "count": 14
+    },
+    {
+     "id": "geography-058",
+     "title": "The Mercury",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-059",
+     "title": "The Venus",
+     "group": "World Geography",
+     "count": 6
+    },
+    {
+     "id": "geography-060",
+     "title": "The Earth",
+     "group": "World Geography",
+     "count": 33
+    },
+    {
+     "id": "geography-061",
+     "title": "The Mars",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-062",
+     "title": "The Jupiter",
+     "group": "World Geography",
+     "count": 6
+    },
+    {
+     "id": "geography-064",
+     "title": "The Uranus, Neptune and Pluto",
+     "group": "World Geography",
+     "count": 16
+    },
+    {
+     "id": "geography-065",
+     "title": "The Moon",
+     "group": "World Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-066",
+     "title": "Asteroids",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-067",
+     "title": "Comets and Meteors",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-068",
+     "title": "Latitude",
+     "group": "World Geography",
+     "count": 9
+    },
+    {
+     "id": "geography-069",
+     "title": "Longitude",
+     "group": "World Geography",
+     "count": 27
+    },
+    {
+     "id": "geography-070",
+     "title": "Equator",
+     "group": "World Geography",
+     "count": 10
+    },
+    {
+     "id": "geography-072",
+     "title": "The Tropic of Capricorn",
+     "group": "World Geography",
+     "count": 6
+    },
+    {
+     "id": "geography-073",
+     "title": "Day & Night",
+     "group": "World Geography",
+     "count": 13
+    },
+    {
+     "id": "geography-074",
+     "title": "Origin of the Earth",
+     "group": "World Geography",
+     "count": 2
+    },
+    {
+     "id": "geography-075",
+     "title": "Geological History",
+     "group": "World Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-076",
+     "title": "Rocks",
+     "group": "World Geography",
+     "count": 11
+    },
+    {
+     "id": "geography-077",
+     "title": "Volcano",
+     "group": "World Geography",
+     "count": 28
+    },
+    {
+     "id": "geography-078",
+     "title": "The Earthquake",
+     "group": "World Geography",
+     "count": 16
+    },
+    {
+     "id": "geography-079",
+     "title": "The Continents",
+     "group": "World Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-080",
+     "title": "The World Mountain Ranges",
+     "group": "World Geography",
+     "count": 50
+    },
+    {
+     "id": "geography-081",
+     "title": "The Plateaus",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-082",
+     "title": "Valleys",
+     "group": "World Geography",
+     "count": 13
+    },
+    {
+     "id": "geography-083",
+     "title": "Arid Region/ Desert",
+     "group": "World Geography",
+     "count": 27
+    },
+    {
+     "id": "geography-084",
+     "title": "The Grasslands",
+     "group": "World Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-085",
+     "title": "Countries and their Borders",
+     "group": "World Geography",
+     "count": 38
+    },
+    {
+     "id": "geography-086",
+     "title": "Dependent Territory",
+     "group": "World Geography",
+     "count": 6
+    },
+    {
+     "id": "geography-087",
+     "title": "The Land-locked Countries",
+     "group": "World Geography",
+     "count": 12
+    },
+    {
+     "id": "geography-088",
+     "title": "Old Names of Countries",
+     "group": "World Geography",
+     "count": 3
+    },
+    {
+     "id": "geography-089",
+     "title": "International Border Lines",
+     "group": "World Geography",
+     "count": 11
+    },
+    {
+     "id": "geography-090",
+     "title": "Capital cities of the world",
+     "group": "World Geography",
+     "count": 36
+    },
+    {
+     "id": "geography-091",
+     "title": "World Towns",
+     "group": "World Geography",
+     "count": 29
+    },
+    {
+     "id": "geography-092",
+     "title": "Geographical Sobriquets",
+     "group": "World Geography",
+     "count": 20
+    },
+    {
+     "id": "geography-093",
+     "title": "Hydrosphere",
+     "group": "World Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-094",
+     "title": "Important Seas of the World",
+     "group": "World Geography",
+     "count": 22
+    },
+    {
+     "id": "geography-095",
+     "title": "Ocean Currents",
+     "group": "World Geography",
+     "count": 23
+    },
+    {
+     "id": "geography-096",
+     "title": "Salinity of the Ocean",
+     "group": "World Geography",
+     "count": 10
+    },
+    {
+     "id": "geography-097",
+     "title": "High Tide, Low Tide",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-098",
+     "title": "Oceanic Trenches",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-099",
+     "title": "Rivers of the World",
+     "group": "World Geography",
+     "count": 33
+    },
+    {
+     "id": "geography-100",
+     "title": "Towns and Cities along the Banks of Rivers",
+     "group": "World Geography",
+     "count": 22
+    },
+    {
+     "id": "geography-101",
+     "title": "Landforms by River",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-102",
+     "title": "The Island",
+     "group": "World Geography",
+     "count": 35
+    },
+    {
+     "id": "geography-103",
+     "title": "Lakes and Water Falls",
+     "group": "World Geography",
+     "count": 33
+    },
+    {
+     "id": "geography-104",
+     "title": "Straits",
+     "group": "World Geography",
+     "count": 21
+    },
+    {
+     "id": "geography-105",
+     "title": "Canals",
+     "group": "World Geography",
+     "count": 14
+    },
+    {
+     "id": "geography-106",
+     "title": "The Important Dams of the world",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-107",
+     "title": "The Coral Reefs",
+     "group": "World Geography",
+     "count": 9
+    },
+    {
+     "id": "geography-108",
+     "title": "The Atmosphere",
+     "group": "World Geography",
+     "count": 25
+    },
+    {
+     "id": "geography-109",
+     "title": "The Insolation",
+     "group": "World Geography",
+     "count": 13
+    },
+    {
+     "id": "geography-110",
+     "title": "Cyclone",
+     "group": "World Geography",
+     "count": 19
+    },
+    {
+     "id": "geography-111",
+     "title": "Humidity",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-112",
+     "title": "The Atmospheric Pressure",
+     "group": "World Geography",
+     "count": 4
+    },
+    {
+     "id": "geography-113",
+     "title": "Clouds",
+     "group": "World Geography",
+     "count": 7
+    },
+    {
+     "id": "geography-114",
+     "title": "Winds",
+     "group": "World Geography",
+     "count": 15
+    },
+    {
+     "id": "geography-115",
+     "title": "Local Winds",
+     "group": "World Geography",
+     "count": 10
+    },
+    {
+     "id": "geography-116",
+     "title": "The Forest",
+     "group": "World Geography",
+     "count": 31
+    },
+    {
+     "id": "geography-117",
+     "title": "World Climate",
+     "group": "World Geography",
+     "count": 45
+    },
+    {
+     "id": "geography-118",
+     "title": "The Soil",
+     "group": "World Geography",
+     "count": 16
+    },
+    {
+     "id": "geography-119",
+     "title": "The Major tribes of the world",
+     "group": "World Geography",
+     "count": 39
+    },
+    {
+     "id": "geography-120",
+     "title": "The Languages",
+     "group": "World Geography",
+     "count": 8
+    },
+    {
+     "id": "geography-121",
+     "title": "(A) Agriculture & livestocks",
+     "group": "Economic Geography",
+     "count": 101
+    },
+    {
+     "id": "geography-122",
+     "title": "(B) The Minerals",
+     "group": "Economic Geography",
+     "count": 115
+    },
+    {
+     "id": "geography-123",
+     "title": "(C) Industries",
+     "group": "Economic Geography",
+     "count": 40
+    },
+    {
+     "id": "geography-124",
+     "title": "Transport",
+     "group": "Economic Geography",
+     "count": 16
+    },
+    {
+     "id": "geography-125",
+     "title": "The Ports and Harbours",
+     "group": "Economic Geography",
+     "count": 17
+    },
+    {
+     "id": "geography-126",
+     "title": "Mapping",
+     "group": "Economic Geography",
+     "count": 6
+    },
+    {
+     "id": "geography-127",
+     "title": "Miscellaneous General Geography",
+     "group": "Economic Geography",
+     "count": 57
+    }
+   ]
+  },
+  {
+   "id": "science",
+   "name": "General Science",
+   "chapters": [
+    {
+     "id": "science-000",
+     "title": "Measurement/Unit",
+     "group": "Physics",
+     "count": 60
+    },
+    {
+     "id": "science-001",
+     "title": "Measuring instruments and Scales",
+     "group": "Physics",
+     "count": 52
+    },
+    {
+     "id": "science-002",
+     "title": "Mechanics",
+     "group": "Physics",
+     "count": 45
+    },
+    {
+     "id": "science-003",
+     "title": "Motion under Gravity",
+     "group": "Physics",
+     "count": 42
+    },
+    {
+     "id": "science-004",
+     "title": "Physical properties of matter",
+     "group": "Physics",
+     "count": 57
+    },
+    {
+     "id": "science-005",
+     "title": "Optics",
+     "group": "Physics",
+     "count": 159
+    },
+    {
+     "id": "science-006",
+     "title": "Heat and Thermodynamics",
+     "group": "Physics",
+     "count": 98
+    },
+    {
+     "id": "science-007",
+     "title": "Wave motion",
+     "group": "Physics",
+     "count": 49
+    },
+    {
+     "id": "science-008",
+     "title": "Sound",
+     "group": "Physics",
+     "count": 58
+    },
+    {
+     "id": "science-009",
+     "title": "Electric current",
+     "group": "Physics",
+     "count": 101
+    },
+    {
+     "id": "science-010",
+     "title": "Conductivity",
+     "group": "Physics",
+     "count": 25
+    },
+    {
+     "id": "science-011",
+     "title": "Nuclear Physics",
+     "group": "Physics",
+     "count": 92
+    },
+    {
+     "id": "science-012",
+     "title": "Computer and Information Technology",
+     "group": "Physics",
+     "count": 393
+    },
+    {
+     "id": "science-013",
+     "title": "Space",
+     "group": "Physics",
+     "count": 182
+    },
+    {
+     "id": "science-014",
+     "title": "Defence Technology",
+     "group": "Physics",
+     "count": 112
+    },
+    {
+     "id": "science-015",
+     "title": "Scientists & Inventions",
+     "group": "Physics",
+     "count": 59
+    },
+    {
+     "id": "science-016",
+     "title": "Miscellaneous",
+     "group": "Physics",
+     "count": 112
+    },
+    {
+     "id": "science-017",
+     "title": "Atomic Structure",
+     "group": "Chemistry",
+     "count": 42
+    },
+    {
+     "id": "science-018",
+     "title": "Physical and Chemical Changes, Solution",
+     "group": "Chemistry",
+     "count": 38
+    },
+    {
+     "id": "science-019",
+     "title": "Inorganic Chemistry",
+     "group": "Chemistry",
+     "count": 14
+    },
+    {
+     "id": "science-020",
+     "title": "Metals, Minerals, Ores Properties, Uses",
+     "group": "Chemistry",
+     "count": 83
+    },
+    {
+     "id": "science-021",
+     "title": "Alloys",
+     "group": "Chemistry",
+     "count": 32
+    },
+    {
+     "id": "science-022",
+     "title": "A. Carbon and its various forms",
+     "group": "Non-metals",
+     "count": 41
+    },
+    {
+     "id": "science-023",
+     "title": "B. Hydrogen and its compounds",
+     "group": "Non-metals",
+     "count": 28
+    },
+    {
+     "id": "science-024",
+     "title": "C. Sulfur, Nitrogen, Halogen, Inert gases",
+     "group": "Non-metals",
+     "count": 37
+    },
+    {
+     "id": "science-025",
+     "title": "D. Acid, Base and Salt",
+     "group": "Non-metals",
+     "count": 64
+    },
+    {
+     "id": "science-026",
+     "title": "A. Hydrocarbons",
+     "group": "Organic Chemistry",
+     "count": 23
+    },
+    {
+     "id": "science-027",
+     "title": "B. Alcohol",
+     "group": "Organic Chemistry",
+     "count": 8
+    },
+    {
+     "id": "science-028",
+     "title": "C. Polymer",
+     "group": "Organic Chemistry",
+     "count": 42
+    },
+    {
+     "id": "science-029",
+     "title": "D. Organic Acid",
+     "group": "Organic Chemistry",
+     "count": 32
+    },
+    {
+     "id": "science-030",
+     "title": "E. The Explosive Substances",
+     "group": "Organic Chemistry",
+     "count": 13
+    },
+    {
+     "id": "science-031",
+     "title": "F. The Fuel",
+     "group": "Organic Chemistry",
+     "count": 60
+    },
+    {
+     "id": "science-032",
+     "title": "Food preservation, Nutrition, Medicine, etc.",
+     "group": "Organic Chemistry",
+     "count": 33
+    },
+    {
+     "id": "science-033",
+     "title": "Detergents and Soap",
+     "group": "Organic Chemistry",
+     "count": 7
+    },
+    {
+     "id": "science-034",
+     "title": "The Fertilizers",
+     "group": "Organic Chemistry",
+     "count": 20
+    },
+    {
+     "id": "science-035",
+     "title": "Miscellaneous",
+     "group": "Organic Chemistry",
+     "count": 126
+    },
+    {
+     "id": "science-036",
+     "title": "Subdivisions of Biology",
+     "group": "Biology",
+     "count": 28
+    },
+    {
+     "id": "science-037",
+     "title": "Evolution of Life",
+     "group": "Biology",
+     "count": 23
+    },
+    {
+     "id": "science-038",
+     "title": "Taxonomy",
+     "group": "Biology",
+     "count": 204
+    },
+    {
+     "id": "science-039",
+     "title": "Cell",
+     "group": "Biology",
+     "count": 14
+    },
+    {
+     "id": "science-040",
+     "title": "Heredity",
+     "group": "Biology",
+     "count": 38
+    },
+    {
+     "id": "science-041",
+     "title": "Biofertilizers",
+     "group": "Biology",
+     "count": 28
+    },
+    {
+     "id": "science-042",
+     "title": "Skeletal and Muscle System",
+     "group": "Human Anatomy and Physiology",
+     "count": 34
+    },
+    {
+     "id": "science-043",
+     "title": "Digestive System",
+     "group": "Human Anatomy and Physiology",
+     "count": 45
+    },
+    {
+     "id": "science-044",
+     "title": "Vitamins and Nutrition",
+     "group": "Human Anatomy and Physiology",
+     "count": 165
+    },
+    {
+     "id": "science-045",
+     "title": "Respiratory System",
+     "group": "Human Anatomy and Physiology",
+     "count": 11
+    },
+    {
+     "id": "science-046",
+     "title": "Circulatory System",
+     "group": "Human Anatomy and Physiology",
+     "count": 87
+    },
+    {
+     "id": "science-047",
+     "title": "Excretory System",
+     "group": "Human Anatomy and Physiology",
+     "count": 19
+    },
+    {
+     "id": "science-048",
+     "title": "Nervous System",
+     "group": "Human Anatomy and Physiology",
+     "count": 15
+    },
+    {
+     "id": "science-049",
+     "title": "Endocrine System",
+     "group": "Human Anatomy and Physiology",
+     "count": 52
+    },
+    {
+     "id": "science-050",
+     "title": "Reproduction and Embryo Development",
+     "group": "Human Anatomy and Physiology",
+     "count": 6
+    },
+    {
+     "id": "science-051",
+     "title": "Photosynthesis",
+     "group": "Plant Physiology",
+     "count": 41
+    },
+    {
+     "id": "science-052",
+     "title": "Plant Nutrition",
+     "group": "Plant Physiology",
+     "count": 28
+    },
+    {
+     "id": "science-053",
+     "title": "Plant Hormones",
+     "group": "Plant Physiology",
+     "count": 12
+    },
+    {
+     "id": "science-054",
+     "title": "Plant Reproduction",
+     "group": "Plant Physiology",
+     "count": 29
+    },
+    {
+     "id": "science-055",
+     "title": "Plant : Economic Importance",
+     "group": "Plant Physiology",
+     "count": 63
+    },
+    {
+     "id": "science-056",
+     "title": "Viral Diseases",
+     "group": "Diseases and Treatment",
+     "count": 86
+    },
+    {
+     "id": "science-057",
+     "title": "Bacterial Diseases",
+     "group": "Diseases and Treatment",
+     "count": 45
+    },
+    {
+     "id": "science-058",
+     "title": "Fungal Diseases",
+     "group": "Diseases and Treatment",
+     "count": 7
+    },
+    {
+     "id": "science-059",
+     "title": "Other Parasitic Diseases",
+     "group": "Diseases and Treatment",
+     "count": 23
+    },
+    {
+     "id": "science-060",
+     "title": "Genetic Disorders",
+     "group": "Diseases and Treatment",
+     "count": 24
+    },
+    {
+     "id": "science-061",
+     "title": "Deficiency, Non-Contagious and Other Diseases",
+     "group": "Diseases and Treatment",
+     "count": 125
+    },
+    {
+     "id": "science-062",
+     "title": "Main Plant Diseases",
+     "group": "Diseases and Treatment",
+     "count": 22
+    },
+    {
+     "id": "science-063",
+     "title": "Genetic Engineering and Biotechnology",
+     "group": "Diseases and Treatment",
+     "count": 99
+    },
+    {
+     "id": "science-064",
+     "title": "Miscellaneous",
+     "group": "Diseases and Treatment",
+     "count": 200
+    }
+   ]
+  },
+  {
+   "id": "bpsc",
+   "name": "BPSC General Studies",
+   "chapters": [
+    {
+     "id": "bpsc-000",
+     "title": "Stone Age",
+     "group": "Indian History › Ancient",
+     "count": 6
+    },
+    {
+     "id": "bpsc-001",
+     "title": "Indus Valley Civilization",
+     "group": "Indian History › Ancient",
+     "count": 13
+    },
+    {
+     "id": "bpsc-002",
+     "title": "Vedic Age",
+     "group": "Indian History › Ancient",
+     "count": 10
+    },
+    {
+     "id": "bpsc-003",
+     "title": "Buddhism",
+     "group": "Indian History › Ancient",
+     "count": 22
+    },
+    {
+     "id": "bpsc-004",
+     "title": "Jain Religion, Shaiva, Bhagavata Religion",
+     "group": "Indian History › Ancient",
+     "count": 10
+    },
+    {
+     "id": "bpsc-005",
+     "title": "Sixth Century B.C.E. Political Condition, Greek Invasion",
+     "group": "Indian History › Ancient",
+     "count": 23
+    },
+    {
+     "id": "bpsc-006",
+     "title": "Maurya Empire",
+     "group": "Indian History › Ancient",
+     "count": 26
+    },
+    {
+     "id": "bpsc-007",
+     "title": "Post-Mauryan Period",
+     "group": "Indian History › Ancient",
+     "count": 9
+    },
+    {
+     "id": "bpsc-008",
+     "title": "Gupta and Post-Gupta Period",
+     "group": "Indian History › Ancient",
+     "count": 30
+    },
+    {
+     "id": "bpsc-009",
+     "title": "Architecture in Ancient India",
+     "group": "Indian History › Ancient",
+     "count": 11
+    },
+    {
+     "id": "bpsc-010",
+     "title": "South India (Chola, Chalukya, Pallava, Sangam)",
+     "group": "Indian History › Ancient",
+     "count": 12
+    },
+    {
+     "id": "bpsc-011",
+     "title": "Ancient Literature and Litterateur",
+     "group": "Indian History › Ancient",
+     "count": 21
+    },
+    {
+     "id": "bpsc-012",
+     "title": "Pre-Medieval Period",
+     "group": "Indian History › Ancient",
+     "count": 9
+    },
+    {
+     "id": "bpsc-013",
+     "title": "Muslim Invasion, Slave Dynasty",
+     "group": "Indian History › Medieval",
+     "count": 12
+    },
+    {
+     "id": "bpsc-014",
+     "title": "Khalji, Tughluq, Lodi Dynasty, Vijayanagara Empire",
+     "group": "Indian History › Medieval",
+     "count": 30
+    },
+    {
+     "id": "bpsc-015",
+     "title": "Delhi Sultanate: Administration, Art and Architecture",
+     "group": "Indian History › Medieval",
+     "count": 8
+    },
+    {
+     "id": "bpsc-016",
+     "title": "Delhi Sultanate Literature/Misc., Provincial Dynasties, Bhakti and Sufi Movement",
+     "group": "Indian History › Medieval",
+     "count": 6
+    },
+    {
+     "id": "bpsc-017",
+     "title": "Mughal Dynasty: Babur to Aurangzeb",
+     "group": "Indian History › Medieval",
+     "count": 32
+    },
+    {
+     "id": "bpsc-018",
+     "title": "Mughal Administration, Music, Paintings, Literature, Misc.",
+     "group": "Indian History › Medieval",
+     "count": 20
+    },
+    {
+     "id": "bpsc-019",
+     "title": "Sikh Sect, Maratha State, Disintegration of the Mughal Empire",
+     "group": "Indian History › Medieval",
+     "count": 10
+    },
+    {
+     "id": "bpsc-020",
+     "title": "European Companies, East India Company, Nawabs of Bengal",
+     "group": "Indian History › Modern",
+     "count": 15
+    },
+    {
+     "id": "bpsc-021",
+     "title": "Regional States: Punjab and Mysore",
+     "group": "Indian History › Modern",
+     "count": 6
+    },
+    {
+     "id": "bpsc-022",
+     "title": "Governor / Governor General / Viceroy",
+     "group": "Indian History › Modern",
+     "count": 28
+    },
+    {
+     "id": "bpsc-023",
+     "title": "Economic Impact of British Rule",
+     "group": "Indian History › Modern",
+     "count": 10
+    },
+    {
+     "id": "bpsc-024",
+     "title": "Revolt of 1857, Other Civil Uprisings",
+     "group": "Indian History › Modern",
+     "count": 52
+    },
+    {
+     "id": "bpsc-025",
+     "title": "Development of Education in Modern India",
+     "group": "Indian History › Modern",
+     "count": 15
+    },
+    {
+     "id": "bpsc-026",
+     "title": "Development of Press in Modern India",
+     "group": "Indian History › Modern",
+     "count": 14
+    },
+    {
+     "id": "bpsc-027",
+     "title": "Socio-Religious Movements",
+     "group": "Indian History › Modern",
+     "count": 33
+    },
+    {
+     "id": "bpsc-028",
+     "title": "Political Organisations before Congress, Indian National Congress",
+     "group": "Indian History › Modern",
+     "count": 40
+    },
+    {
+     "id": "bpsc-029",
+     "title": "Moderates and Extremists in Congress",
+     "group": "Indian History › Modern",
+     "count": 15
+    },
+    {
+     "id": "bpsc-030",
+     "title": "Revolutionary Movements in India",
+     "group": "Indian History › Modern",
+     "count": 21
+    },
+    {
+     "id": "bpsc-031",
+     "title": "Revolutionary Activities Outside India",
+     "group": "Indian History › Modern",
+     "count": 18
+    },
+    {
+     "id": "bpsc-032",
+     "title": "Partition of Bengal and Swadeshi Movement",
+     "group": "Indian History › Modern",
+     "count": 13
+    },
+    {
+     "id": "bpsc-033",
+     "title": "Congress Sessions: Benaras, Calcutta, Surat",
+     "group": "Indian History › Modern",
+     "count": 2
+    },
+    {
+     "id": "bpsc-034",
+     "title": "Muslim League, Morley-Minto Reforms, Delhi Darbar, Lucknow Pact",
+     "group": "Indian History › Modern",
+     "count": 5
+    },
+    {
+     "id": "bpsc-035",
+     "title": "Home Rule League, Gandhi's Early Movements",
+     "group": "Indian History › Modern",
+     "count": 43
+    },
+    {
+     "id": "bpsc-036",
+     "title": "Peasant Movement, Trade Union, Communist Party",
+     "group": "Indian History › Modern",
+     "count": 21
+    },
+    {
+     "id": "bpsc-037",
+     "title": "Rowlatt Act, Jallianwala Bagh, Khilafat Movement",
+     "group": "Indian History › Modern",
+     "count": 13
+    },
+    {
+     "id": "bpsc-038",
+     "title": "Non-Cooperation Movement, Swaraj Party",
+     "group": "Indian History › Modern",
+     "count": 17
+    },
+    {
+     "id": "bpsc-039",
+     "title": "Simon Commission, Lahore Session, Complete Independence",
+     "group": "Indian History › Modern",
+     "count": 12
+    },
+    {
+     "id": "bpsc-040",
+     "title": "Civil Disobedience Movement, Gandhi-Irwin Pact",
+     "group": "Indian History › Modern",
+     "count": 17
+    },
+    {
+     "id": "bpsc-041",
+     "title": "Round Table Conference, Communal Award, Poona Pact",
+     "group": "Indian History › Modern",
+     "count": 12
+    },
+    {
+     "id": "bpsc-042",
+     "title": "Congress Socialist Party, 1937 Elections, Tripuri Crisis, WWII, Demand for Pakistan",
+     "group": "Indian History › Modern",
+     "count": 18
+    },
+    {
+     "id": "bpsc-043",
+     "title": "Individual Satyagraha, Cripps Mission",
+     "group": "Indian History › Modern",
+     "count": 7
+    },
+    {
+     "id": "bpsc-044",
+     "title": "Quit India Movement",
+     "group": "Indian History › Modern",
+     "count": 15
+    },
+    {
+     "id": "bpsc-045",
+     "title": "Subhash Chandra Bose and Azad Hind Fauj",
+     "group": "Indian History › Modern",
+     "count": 19
+    },
+    {
+     "id": "bpsc-046",
+     "title": "Cabinet Mission Plan (1946)",
+     "group": "Indian History › Modern",
+     "count": 6
+    },
+    {
+     "id": "bpsc-047",
+     "title": "Interim Government, Partition and Independence",
+     "group": "Indian History › Modern",
+     "count": 14
+    },
+    {
+     "id": "bpsc-048",
+     "title": "Constitutional Development of India",
+     "group": "Indian History › Modern",
+     "count": 16
+    },
+    {
+     "id": "bpsc-049",
+     "title": "Modern History: Miscellaneous",
+     "group": "Indian History › Modern",
+     "count": 51
+    },
+    {
+     "id": "bpsc-050",
+     "title": "Magazines, Books and Their Authors",
+     "group": "Indian History › Modern",
+     "count": 43
+    },
+    {
+     "id": "bpsc-051",
+     "title": "Art and Culture",
+     "group": "Indian History › Modern",
+     "count": 18
+    },
+    {
+     "id": "bpsc-052",
+     "title": "The Constitutional Development of India",
+     "group": "Indian Polity & Governance",
+     "count": 7
+    },
+    {
+     "id": "bpsc-053",
+     "title": "Constituent Assembly Committees, Sources of the Constitution",
+     "group": "Indian Polity & Governance",
+     "count": 9
+    },
+    {
+     "id": "bpsc-054",
+     "title": "Parts, Articles and Schedules",
+     "group": "Indian Polity & Governance",
+     "count": 21
+    },
+    {
+     "id": "bpsc-055",
+     "title": "Preamble, Governance System, States and Union Territories",
+     "group": "Indian Polity & Governance",
+     "count": 28
+    },
+    {
+     "id": "bpsc-056",
+     "title": "Citizenship, Fundamental Rights, DPSP, Fundamental Duties",
+     "group": "Indian Polity & Governance",
+     "count": 35
+    },
+    {
+     "id": "bpsc-057",
+     "title": "The President, The Vice-President",
+     "group": "Indian Polity & Governance",
+     "count": 36
+    },
+    {
+     "id": "bpsc-058",
+     "title": "Attorney General, Advocate General, CAG, Order of Precedence",
+     "group": "Indian Polity & Governance",
+     "count": 6
+    },
+    {
+     "id": "bpsc-059",
+     "title": "The Parliament",
+     "group": "Indian Polity & Governance",
+     "count": 50
+    },
+    {
+     "id": "bpsc-060",
+     "title": "The Supreme Court",
+     "group": "Indian Polity & Governance",
+     "count": 19
+    },
+    {
+     "id": "bpsc-061",
+     "title": "The Governor, The State Legislature",
+     "group": "Indian Polity & Governance",
+     "count": 16
+    },
+    {
+     "id": "bpsc-062",
+     "title": "The High Court and Subordinate Courts",
+     "group": "Indian Polity & Governance",
+     "count": 4
+    },
+    {
+     "id": "bpsc-063",
+     "title": "Centre-State Relations, Emergency Provisions",
+     "group": "Indian Polity & Governance",
+     "count": 7
+    },
+    {
+     "id": "bpsc-064",
+     "title": "Finance Commission, Planning Commission/NITI Aayog, Election Commission",
+     "group": "Indian Polity & Governance",
+     "count": 23
+    },
+    {
+     "id": "bpsc-065",
+     "title": "Political Parties",
+     "group": "Indian Polity & Governance",
+     "count": 4
+    },
+    {
+     "id": "bpsc-066",
+     "title": "Constitutional Amendment, Official Language",
+     "group": "Indian Polity & Governance",
+     "count": 9
+    },
+    {
+     "id": "bpsc-067",
+     "title": "Panchayati Raj and Community Development",
+     "group": "Indian Polity & Governance",
+     "count": 46
+    },
+    {
+     "id": "bpsc-068",
+     "title": "Special Provisions for Certain Classes, Miscellaneous",
+     "group": "Indian Polity & Governance",
+     "count": 40
+    },
+    {
+     "id": "bpsc-069",
+     "title": "Introduction, Area, Extent, Standard Time, Bordering Countries",
+     "group": "General Geography › Indian",
+     "count": 6
+    },
+    {
+     "id": "bpsc-070",
+     "title": "Physical Divisions",
+     "group": "General Geography › Indian",
+     "count": 34
+    },
+    {
+     "id": "bpsc-071",
+     "title": "Indian Coastline, Island Groups",
+     "group": "General Geography › Indian",
+     "count": 9
+    },
+    {
+     "id": "bpsc-072",
+     "title": "States / Union Territories of India",
+     "group": "General Geography › Indian",
+     "count": 15
+    },
+    {
+     "id": "bpsc-073",
+     "title": "Species / Tribes",
+     "group": "General Geography › Indian",
+     "count": 9
+    },
+    {
+     "id": "bpsc-074",
+     "title": "Drainage System, Cities on Rivers, Waterfalls and Lakes",
+     "group": "General Geography › Indian",
+     "count": 45
+    },
+    {
+     "id": "bpsc-075",
+     "title": "Climate, Natural Disasters",
+     "group": "General Geography › Indian",
+     "count": 19
+    },
+    {
+     "id": "bpsc-076",
+     "title": "Soils, Soil Erosion and Conservation",
+     "group": "General Geography › Indian",
+     "count": 16
+    },
+    {
+     "id": "bpsc-077",
+     "title": "Natural Vegetation",
+     "group": "General Geography › Indian",
+     "count": 12
+    },
+    {
+     "id": "bpsc-078",
+     "title": "Irrigation, Canals, Multi-Purpose River Valley Projects",
+     "group": "General Geography › Indian",
+     "count": 15
+    },
+    {
+     "id": "bpsc-079",
+     "title": "Agriculture, Green Revolution",
+     "group": "General Geography › Indian",
+     "count": 9
+    },
+    {
+     "id": "bpsc-080",
+     "title": "Crops, Agriculture Misc., Animal Husbandry",
+     "group": "General Geography › Indian",
+     "count": 32
+    },
+    {
+     "id": "bpsc-081",
+     "title": "Mineral Resources",
+     "group": "General Geography › Indian",
+     "count": 26
+    },
+    {
+     "id": "bpsc-082",
+     "title": "Electrical Energy",
+     "group": "General Geography › Indian",
+     "count": 11
+    },
+    {
+     "id": "bpsc-083",
+     "title": "Industry",
+     "group": "General Geography › Indian",
+     "count": 19
+    },
+    {
+     "id": "bpsc-084",
+     "title": "Transport",
+     "group": "General Geography › Indian",
+     "count": 28
+    },
+    {
+     "id": "bpsc-085",
+     "title": "Universe, Solar System, Earth, Date Lines, Day and Night",
+     "group": "General Geography › World",
+     "count": 32
+    },
+    {
+     "id": "bpsc-086",
+     "title": "Geological History, Rocks",
+     "group": "General Geography › World",
+     "count": 15
+    },
+    {
+     "id": "bpsc-087",
+     "title": "Volcano, Earthquake, Continents, Mountains, Plateaus, Deserts, Grasslands",
+     "group": "General Geography › World",
+     "count": 30
+    },
+    {
+     "id": "bpsc-088",
+     "title": "Countries and Borders, Capitals, Sobriquets",
+     "group": "General Geography › World",
+     "count": 5
+    },
+    {
+     "id": "bpsc-089",
+     "title": "Hydrosphere, Ocean Currents",
+     "group": "General Geography › World",
+     "count": 16
+    },
+    {
+     "id": "bpsc-090",
+     "title": "Salinity, Rivers of the World, Towns on Rivers",
+     "group": "General Geography › World",
+     "count": 8
+    },
+    {
+     "id": "bpsc-091",
+     "title": "Landforms by River, Islands, Lakes, Straits, Canals, Coral Reefs, Atmosphere",
+     "group": "General Geography › World",
+     "count": 20
+    },
+    {
+     "id": "bpsc-092",
+     "title": "Winds, Forests",
+     "group": "General Geography › World",
+     "count": 5
+    },
+    {
+     "id": "bpsc-093",
+     "title": "World Climate, Soils, Tribes, Languages",
+     "group": "General Geography › World",
+     "count": 14
+    },
+    {
+     "id": "bpsc-094",
+     "title": "Agriculture and Livestock",
+     "group": "General Geography › World",
+     "count": 7
+    },
+    {
+     "id": "bpsc-095",
+     "title": "Minerals",
+     "group": "General Geography › World",
+     "count": 18
+    },
+    {
+     "id": "bpsc-096",
+     "title": "Cities and Industries, Transport, Ports, Miscellaneous",
+     "group": "General Geography › World",
+     "count": 24
+    },
+    {
+     "id": "bpsc-097",
+     "title": "Environment and Ecology",
+     "group": "Environment & Economy",
+     "count": 62
+    },
+    {
+     "id": "bpsc-098",
+     "title": "Economic Development",
+     "group": "Environment & Economy",
+     "count": 159
+    },
+    {
+     "id": "bpsc-099",
+     "title": "Social Development",
+     "group": "Environment & Economy",
+     "count": 35
+    },
+    {
+     "id": "bpsc-100",
+     "title": "External Sector",
+     "group": "Environment & Economy",
+     "count": 38
+    },
+    {
+     "id": "bpsc-101",
+     "title": "Demography",
+     "group": "Environment & Economy",
+     "count": 58
+    },
+    {
+     "id": "bpsc-102",
+     "title": "Measurement, Instruments and Scales, Mechanics",
+     "group": "General Science › Physics",
+     "count": 50
+    },
+    {
+     "id": "bpsc-103",
+     "title": "Motion under Gravity, Properties of Matter",
+     "group": "General Science › Physics",
+     "count": 17
+    },
+    {
+     "id": "bpsc-104",
+     "title": "Optics",
+     "group": "General Science › Physics",
+     "count": 34
+    },
+    {
+     "id": "bpsc-105",
+     "title": "Heat and Thermodynamics",
+     "group": "General Science › Physics",
+     "count": 17
+    },
+    {
+     "id": "bpsc-106",
+     "title": "Wave Motion, Sound",
+     "group": "General Science › Physics",
+     "count": 17
+    },
+    {
+     "id": "bpsc-107",
+     "title": "Electric Current, Conductivity",
+     "group": "General Science › Physics",
+     "count": 43
+    },
+    {
+     "id": "bpsc-108",
+     "title": "Nuclear Physics",
+     "group": "General Science › Physics",
+     "count": 9
+    },
+    {
+     "id": "bpsc-109",
+     "title": "Computer and IT, Space, Scientists and Inventions",
+     "group": "General Science › Physics",
+     "count": 18
+    },
+    {
+     "id": "bpsc-110",
+     "title": "Physics: Miscellaneous",
+     "group": "General Science › Physics",
+     "count": 19
+    },
+    {
+     "id": "bpsc-111",
+     "title": "Atomic Structure",
+     "group": "General Science › Chemistry",
+     "count": 24
+    },
+    {
+     "id": "bpsc-112",
+     "title": "Physical and Chemical Changes, Solution",
+     "group": "General Science › Chemistry",
+     "count": 35
+    },
+    {
+     "id": "bpsc-113",
+     "title": "Inorganic Chemistry",
+     "group": "General Science › Chemistry",
+     "count": 17
+    },
+    {
+     "id": "bpsc-114",
+     "title": "Metals, Minerals, Ores, Alloys",
+     "group": "General Science › Chemistry",
+     "count": 39
+    },
+    {
+     "id": "bpsc-115",
+     "title": "Non-metals",
+     "group": "General Science › Chemistry",
+     "count": 42
+    },
+    {
+     "id": "bpsc-116",
+     "title": "Organic Chemistry",
+     "group": "General Science › Chemistry",
+     "count": 36
+    },
+    {
+     "id": "bpsc-117",
+     "title": "Food Preservation, Nutrition, Medicine",
+     "group": "General Science › Chemistry",
+     "count": 16
+    },
+    {
+     "id": "bpsc-118",
+     "title": "Detergents, Fertilizers, Chemistry Misc.",
+     "group": "General Science › Chemistry",
+     "count": 13
+    },
+    {
+     "id": "bpsc-119",
+     "title": "Subdivisions of Biology, Evolution of Life",
+     "group": "General Science › Biology",
+     "count": 17
+    },
+    {
+     "id": "bpsc-120",
+     "title": "Taxonomy, Cell",
+     "group": "General Science › Biology",
+     "count": 26
+    },
+    {
+     "id": "bpsc-121",
+     "title": "Heredity, Biofertilizers",
+     "group": "General Science › Biology",
+     "count": 7
+    },
+    {
+     "id": "bpsc-122",
+     "title": "Human Anatomy and Physiology",
+     "group": "General Science › Biology",
+     "count": 103
+    },
+    {
+     "id": "bpsc-123",
+     "title": "Plant Physiology",
+     "group": "General Science › Biology",
+     "count": 60
+    },
+    {
+     "id": "bpsc-124",
+     "title": "Diseases",
+     "group": "General Science › Biology",
+     "count": 30
+    },
+    {
+     "id": "bpsc-125",
+     "title": "Genetic Engineering, Biotechnology, Biology Misc.",
+     "group": "General Science › Biology",
+     "count": 26
+    },
+    {
+     "id": "bpsc-126",
+     "title": "Number System",
+     "group": "General Mental Ability",
+     "count": 22
+    },
+    {
+     "id": "bpsc-127",
+     "title": "Simplification",
+     "group": "General Mental Ability",
+     "count": 16
+    },
+    {
+     "id": "bpsc-128",
+     "title": "Surds, Indices, Square and Cube Root",
+     "group": "General Mental Ability",
+     "count": 4
+    },
+    {
+     "id": "bpsc-129",
+     "title": "Decimal and Fraction",
+     "group": "General Mental Ability",
+     "count": 4
+    },
+    {
+     "id": "bpsc-130",
+     "title": "Age, Percentage",
+     "group": "General Mental Ability",
+     "count": 32
+    },
+    {
+     "id": "bpsc-131",
+     "title": "LCM & HCF, Profit-Loss, Discount",
+     "group": "General Mental Ability",
+     "count": 20
+    },
+    {
+     "id": "bpsc-132",
+     "title": "Average",
+     "group": "General Mental Ability",
+     "count": 14
+    },
+    {
+     "id": "bpsc-133",
+     "title": "Partnership, Ratio, Proportion, Mixture",
+     "group": "General Mental Ability",
+     "count": 13
+    },
+    {
+     "id": "bpsc-134",
+     "title": "Time and Work, Pipes and Tanks",
+     "group": "General Mental Ability",
+     "count": 10
+    },
+    {
+     "id": "bpsc-135",
+     "title": "Simple and Compound Interest",
+     "group": "General Mental Ability",
+     "count": 8
+    },
+    {
+     "id": "bpsc-136",
+     "title": "Time, Speed and Distance",
+     "group": "General Mental Ability",
+     "count": 16
+    },
+    {
+     "id": "bpsc-137",
+     "title": "Area and Perimeter",
+     "group": "General Mental Ability",
+     "count": 23
+    },
+    {
+     "id": "bpsc-138",
+     "title": "Volume",
+     "group": "General Mental Ability",
+     "count": 11
+    },
+    {
+     "id": "bpsc-139",
+     "title": "Geometry, Algebra",
+     "group": "General Mental Ability",
+     "count": 68
+    },
+    {
+     "id": "bpsc-140",
+     "title": "Trigonometry",
+     "group": "General Mental Ability",
+     "count": 7
+    },
+    {
+     "id": "bpsc-141",
+     "title": "Statistics",
+     "group": "General Mental Ability",
+     "count": 7
+    },
+    {
+     "id": "bpsc-142",
+     "title": "Mathematics: Miscellaneous",
+     "group": "General Mental Ability",
+     "count": 13
+    },
+    {
+     "id": "bpsc-143",
+     "title": "Reasoning",
+     "group": "General Mental Ability",
+     "count": 88
+    },
+    {
+     "id": "bpsc-144",
+     "title": "National Events",
+     "group": "Current Events",
+     "count": 167
+    },
+    {
+     "id": "bpsc-145",
+     "title": "International Events",
+     "group": "Current Events",
+     "count": 169
+    },
+    {
+     "id": "bpsc-146",
+     "title": "Awards",
+     "group": "Current Events",
+     "count": 55
+    },
+    {
+     "id": "bpsc-147",
+     "title": "Important Days",
+     "group": "Current Events",
+     "count": 13
+    },
+    {
+     "id": "bpsc-148",
+     "title": "Books",
+     "group": "Current Events",
+     "count": 8
+    },
+    {
+     "id": "bpsc-149",
+     "title": "Sports",
+     "group": "Current Events",
+     "count": 65
+    },
+    {
+     "id": "bpsc-150",
+     "title": "Current Events: Miscellaneous",
+     "group": "Current Events",
+     "count": 19
+    },
+    {
+     "id": "bpsc-151",
+     "title": "Historical Scenario",
+     "group": "Bihar",
+     "count": 171
+    },
+    {
+     "id": "bpsc-152",
+     "title": "Political Scenario",
+     "group": "Bihar",
+     "count": 42
+    },
+    {
+     "id": "bpsc-153",
+     "title": "Geographical Scenario",
+     "group": "Bihar",
+     "count": 42
+    },
+    {
+     "id": "bpsc-154",
+     "title": "Economic Scenario",
+     "group": "Bihar",
+     "count": 53
+    },
+    {
+     "id": "bpsc-155",
+     "title": "Agriculture and Irrigation",
+     "group": "Bihar",
+     "count": 36
+    },
+    {
+     "id": "bpsc-156",
+     "title": "Mineral Resources",
+     "group": "Bihar",
+     "count": 17
+    },
+    {
+     "id": "bpsc-157",
+     "title": "Population and Urbanisation",
+     "group": "Bihar",
+     "count": 45
+    },
+    {
+     "id": "bpsc-158",
+     "title": "Wildlife and Bird Sanctuaries",
+     "group": "Bihar",
+     "count": 9
+    },
+    {
+     "id": "bpsc-159",
+     "title": "Rivers, Lakes and Waterfalls",
+     "group": "Bihar",
+     "count": 33
+    },
+    {
+     "id": "bpsc-160",
+     "title": "Art and Culture",
+     "group": "Bihar",
+     "count": 15
+    },
+    {
+     "id": "bpsc-161",
+     "title": "Transportation System",
+     "group": "Bihar",
+     "count": 9
+    },
+    {
+     "id": "bpsc-162",
+     "title": "Books and Authors",
+     "group": "Bihar",
+     "count": 14
+    },
+    {
+     "id": "bpsc-163",
+     "title": "Industries and Factories",
+     "group": "Bihar",
+     "count": 18
+    },
+    {
+     "id": "bpsc-164",
+     "title": "Energy Resources",
+     "group": "Bihar",
+     "count": 7
+    },
+    {
+     "id": "bpsc-165",
+     "title": "Current Events: Bihar",
+     "group": "Bihar",
+     "count": 35
+    },
+    {
+     "id": "bpsc-166",
+     "title": "Bihar: Miscellaneous",
+     "group": "Bihar",
+     "count": 23
+    }
+   ]
+  }
+ ]
+}
