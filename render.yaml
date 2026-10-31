@@ -1,0 +1,23 @@
+# Render blueprint for the Ghatnachakra API. This file sits at the repository root (the folder that holds mcq-portal/ and the
+# book PDFs). The PDFs are only used to crop the original page of image-style questions; keep the repository PRIVATE.
+services:
+  - type: web
+    name: ghatnachakra-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r mcq-portal/backend/requirements.txt && cd mcq-portal/backend && python manage.py migrate --noinput
+    startCommand: cd mcq-portal/backend && gunicorn config.wsgi:application --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    healthCheckPath: /api/v1/health/
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DJANGO_ALLOWED_HOSTS
+        value: ghatnachakra-api.onrender.com
+      - key: FRONTEND_URL
+        sync: false # https://<your-project>.vercel.app
+      - key: DJANGO_BEHIND_PROXY
+        value: "true"
+      - key: DATABASE_URL
+        sync: false # a Postgres URL (Neon / Render Postgres). Without it the API uses a SQLite file that Render wipes on every deploy.
